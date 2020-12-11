@@ -1,6 +1,8 @@
 # Beyond the Fight: Ultimate Fighting Championship  
 
-![alt text](http://https://www.google.com/url?sa=i&url=http%3A%2F%2Fsport.bt.com%2Fufc%2Fufc-news%2Fufc-beyond-the-octagon-be-a-part-of-it-S11404331071825&psig=AOvVaw3JMIz8CjdLGIBF43XNfUHL&ust=1607716265145000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDes4OYxO0CFQAAAAAdAAAAABAD/to/img.png)
+<p align="center">
+  <img src="https://github.com/jbtchampo/Capstone-Project/blob/main/UFC_NewBeltInfoGraphic.jpg">
+</p>
 
 # Executive Summary
 
