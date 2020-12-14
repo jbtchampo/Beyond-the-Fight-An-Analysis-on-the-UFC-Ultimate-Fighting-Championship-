@@ -28,6 +28,9 @@ Are there factors that can be used to determine the likelihood (or lack thereof)
 
 •	Tableau; visualize my findings
 
+•	Jupyter Notebook; exploration and analysis
+
+
 
 # Known Issues and Challenges
 
