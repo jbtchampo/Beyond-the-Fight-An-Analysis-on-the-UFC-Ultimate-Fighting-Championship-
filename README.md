@@ -4,10 +4,13 @@
   <img src="https://github.com/jbtchampo/Capstone-Project/blob/main/UFC_NewBeltInfoGraphic.jpg">
 </p>
 
+
+
 # Executive Summary
 
 This project will look at the current UFC roster data and attempt to determine if there are any correlations or patterns between former, and current champions first and the likelihood for prospects (being fighters from other leagues that are likely to get a UFC contract) and 2020 drafted athletes to win a World Championship. 
 We will Look at different associated factors such as fighters’ fighting styles, and records pairing with outside data. I plan to explore the top fighters having the best theoretical chance to win a world championship (or commonly called “Belt”). Given my knowledge of the recent history of this sport, I expect that there will be some inconsistency in data reporting from one website to another. Also, finding specific details on prospects (e.g., fighting stance) might be hard to find.
+
 
 # Motivation
 
@@ -18,6 +21,16 @@ One of the more interesting aspects of this league is not only the risk associat
 # Data Question
 
 Are there factors that can be used to determine the likelihood (or lack thereof) of a fighter winning the title? Do camps (or coaching staff) play an important role in grooming champions? Are there common trends between champions that could inform or help the UFC sign prolific prospects? 
+
+
+# Data Sources
+
+https://www.ufc.com/athletes (UFC Champions  stats)
+http://ufcstats.com/statistics/fighters
+http://rankingmma.com/top-50-mma-prospects/ - Webscraped list of top 50 MMA prospects from different MMA leagues
+https://en.wikipedia.org/wiki/List_of_current_UFC_fighters  - Webscraped the list of UFC Champions & newlydrafted roster
+https://www.sherdog.com/fighter/Jorge-Gonzalez-56318 - External data gathered for prospects (and newlydrafted statistics)
+https://en.wikipedia.org/wiki/List_of_professional_MMA_training_camps' - Webscraped the list of Camps / coaches associated with current & previous UFC athletes
 
 
 # Tools leveraged
@@ -33,12 +46,9 @@ Are there factors that can be used to determine the likelihood (or lack thereof)
 •	Tableau; visualize my findings
 
 
-
 # Known Issues and Challenges
 
-•	Scrapping the UFC site and some Wikipedia tables
-
-•	Comparing insights (such as fighters' record) to get the most updated detail. 
+•	Scrapping the UFC website was nearly impossible. Therefore, I had to complement the data gathered from other websites scraped, such as wikipedia to match my results and confirm the accuracy of my dataset.
 
 •	Changing formats so that the separate sources could be linked to one another via table joins. Essentially trying to format the data correctly so that tidy versions of the data could effectively be visualized in tableau. 
 
