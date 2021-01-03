@@ -8,8 +8,8 @@
 
 # Executive Summary
 
-This project will look at the current UFC roster data and attempt to determine if there are any correlations or patterns between former, and current champions first and the likelihood for prospects (being fighters from other leagues that are likely to get a UFC contract) and 2020 drafted athletes to win a World Championship. 
-We will Look at different associated factors such as fighters’ fighting styles, and records pairing with outside data. I plan to explore the top fighters having the best theoretical chance to win a world championship (or commonly called “Belt”). Given my knowledge of the recent history of this sport, I expect that there will be some inconsistency in data reporting from one website to another. Also, finding specific details on prospects (e.g., fighting stance) might be hard to find.
+This project is an analysis of the UFC champions' (current and former)roster data and attempt to determine if there are any correlations or patterns between those athletes first and the likelihood for prospects, being fighters from other leagues that are likely to get a UFC contract and 2020 drafted athletes, to win a World Championship. 
+I looked at different associated factors such as fighters’ combat styles, and records pairing with outside data. I explored the top fighters having the best theoretical chance to win a world championship (or commonly called “Belt”). Given my knowledge of the recent history of this sport, I expected that there will be some inconsistency in data reporting from one website to another. Also, finding specific details on prospects (e.g., fighting stance) was going to be a challenge to overcome.
 
 
 # Motivation
