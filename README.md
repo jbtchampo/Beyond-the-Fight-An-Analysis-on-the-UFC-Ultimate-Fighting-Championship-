@@ -1,4 +1,4 @@
-# Beyond the Fight: Ultimate Fighting Championship  
+# Beyond the Fight: An Analysis on the UFC (Ultimate Fighting Championship)  
 
 <p align="center">
   <img src="https://github.com/jbtchampo/Capstone-Project/blob/main/UFC_NewBeltInfoGraphic.jpg">
