@@ -26,12 +26,19 @@ Are there factors that can be used to determine the likelihood (or lack thereof)
 # Data Sources
 
 https://www.ufc.com/athletes (UFC Champions  stats)
+
 http://ufcstats.com/statistics/fighters
+
 http://rankingmma.com/top-50-mma-prospects/ - Webscraped list of top 50 MMA prospects from different MMA leagues
+
 https://en.wikipedia.org/wiki/List_of_current_UFC_fighters  - Webscraped the list of UFC Champions & newlydrafted roster
+
 https://www.sherdog.com/fighter/Jorge-Gonzalez-56318 - External data gathered for prospects (and newlydrafted statistics)
+
 https://en.wikipedia.org/wiki/List_of_professional_MMA_training_camps' - Webscraped the list of Camps / coaches associated with current & previous UFC athletes
+
 https://www.sportekz.com/list/highest-paid-ufc-fighters-2020/ 
+
 https://www.sportekz.com/mma/bellator-245-salaries-purse-payouts/
 
 
